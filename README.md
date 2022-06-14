@@ -1,6 +1,6 @@
 # 💫About Me :
-I'm currently working on developing my Skills and Creating Courses in MIS and Data Science
-I'm currently learning more about Data Science
+I'm currently working on developing my Skills and Creating Courses in MIS and Data Science/
+I'm currently learning more about Data Science/
 Ask me about MIS and Data Science and Online Business
 How to reach me: fahad@the-mis.org
 Fun Fact: I am a PC Gamer (Check my gaming channel)
